@@ -1,0 +1,22 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Node app for demo purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcondemarin/node-demo-app.git"
+  },
+  "author": "Daniel Conde Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcondemarin/node-demo-app/issues"
+  },
+  "homepage": "https://github.com/danielcondemarin/node-demo-app#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
